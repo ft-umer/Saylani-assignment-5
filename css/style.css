@@ -1,0 +1,35 @@
+@media (min-width: 1200px){
+    .container{
+        max-width: 1300px;
+    }
+}
+
+p{
+    color: black !important;
+}
+
+a{
+    color: black !important;
+    font-family: fangsong;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+
+.few-words{
+    text-align: center;
+    align-items: center !important;
+}
+
+.para-1{
+    font-size: 45px;
+    font-weight: 600;
+    font-family: fangsong;
+    line-height: 1;
+}
+
+.para-2{
+    font-size: 13px;
+    letter-spacing: 2px;
+    padding-left: 170px;
+    word-spacing: 2px;
+}
